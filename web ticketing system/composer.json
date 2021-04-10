@@ -1,0 +1,9 @@
+{
+    "name": "nemanja/web-ticketing-system",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    }
+}
